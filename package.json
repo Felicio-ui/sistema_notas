@@ -1,0 +1,9 @@
+{
+    "name": "sistema_notas",
+    "version": "1.0.0",
+    "description": "Sistema de Gestão de Notas",
+    "type": "module",
+    "scripts": {
+        "test": "node --test"
+    }
+}
